@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">3D Model Renderer</string>
+    <string name="menu">Menu</string>
+    <string name="item">Item</string>
+
+    <string name="info">
+        \nAbout:\n\nThis is a demo application built using OpenGL and min3d library to render 3D models onto screen. You can preview 3D primitive shapes and pre-built models. You can also zoom in/out and rotate them.\n\nCurrently supported format is .obj\n\n
+        GITHUB LINK:\n
+
+
+    </string>
+    <string name="title_activity_text">Title</string>
+</resources>

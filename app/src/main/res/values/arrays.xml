@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_items">
+        <item>How To</item>
+        <item>Load 3D Shape</item>
+        <item>Load 3D Model</item>
+        <item>Exit</item>
+    </string-array>
+
+    <string-array name="model_items">
+        <item>camaro</item>
+        <item>cube</item>
+        <item>ship</item>
+        <item>house</item>
+        <item>giftbox</item>
+    </string-array>
+
+    <string-array name="primitive_items">
+        <item>Cube</item>
+        <item>Pyramid</item>
+    </string-array>
+</resources>
